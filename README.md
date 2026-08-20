@@ -1,3 +1,6 @@
+I will try to learn by deleting some features from this work and replacing with something worse
+
+
 # eShop Reference Application - "AdventureWorks"
 
 A reference .NET application implementing an e-commerce website using a services-based architecture with [Aspire](https://aspire.dev/).
